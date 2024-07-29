@@ -1,5 +1,4 @@
-![data structure](https://porcomputador.com/EstJava/alfa.jpeg
-)
+![data structure](https://walkccc.me/CLRS/img/13.1-1-3.png)
 
 # Data-structures-proyect
 Data structures proyect
